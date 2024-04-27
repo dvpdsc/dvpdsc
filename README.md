@@ -1,7 +1,4 @@
-
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdebunking-artificial-neural-networks-ann-with-practical-examples--498210777530541719%2F&psig=AOvVaw1Ql_5LCJ1nkIW_KOY2NG03&ust=1714274594269000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjj99W44YUDFQAAAAAdAAAAABAS]
-
-
+![3129576-uhd_3840_2160_30fpsgithub-ezgif com-video-to-gif-converter (1)](https://github.com/dvpdsc/dvpdsc/assets/148638306/e16c44c5-d44c-47de-bce6-ee849a8ad914)
 
 
 # Davi Chaves - dvpdsc
