@@ -1,7 +1,7 @@
 # Davi Chaves - ## dvpdsc
 
 ## Encontre-me 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2C2D72?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-chaves-319a1826b/)  [![GitHub]  (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvpdsc) [![Gmail](https://img.shields.io/badge/Gmail-DD0031?style=for-the-  badge&logo=gmail&logoColor=red)](mailto:dvpdsc@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2C2D72?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-chaves-319a1826b/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvpdsc) [![Gmail](https://img.shields.io/badge/Gmail-DD0031?style=for-the-  badge&logo=gmail&logoColor=red)](mailto:dvpdsc@gmail.com) 
 
 ## Habilidades
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
