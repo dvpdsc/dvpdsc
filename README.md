@@ -1,7 +1,8 @@
+ # Davi Chaves - dvpdsc
+
+
 ![3129576-uhd_3840_2160_30fpsgithub-ezgif com-video-to-gif-converter (1)](https://github.com/dvpdsc/dvpdsc/assets/148638306/e16c44c5-d44c-47de-bce6-ee849a8ad914)
 
-
-# Davi Chaves - dvpdsc
 
 ## Encontre-me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2C2D72?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-chaves-319a1826b/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvpdsc) [![Gmail](https://img.shields.io/badge/Gmail-DD0031?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dvpdsc@gmail.com) 
