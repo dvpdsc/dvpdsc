@@ -1,5 +1,5 @@
 
-![Tech Enthusiast](https://github.com/dvpdsc/dvpdsc/assets/148638306/88f13710-53a1-417f-86dd-b8910b87682b)
+![Tech Enthusiast](https://github.com/dvpdsc/dvpdsc/assets/148638306/8e4cd10e-5a11-4db1-b779-14744bc955c5)
 
 
 ## Encontre-me 
