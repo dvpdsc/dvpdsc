@@ -1,5 +1,5 @@
 
-![Tech Enthusiast](https://github.com/dvpdsc/dvpdsc/assets/148638306/8e4cd10e-5a11-4db1-b779-14744bc955c5)
+![Capa git](https://github.com/dvpdsc/dvpdsc/assets/148638306/85c32a25-4a9d-4299-a443-681c5339fd61)
 
 
 ## [Encontre-me](title_color=30A3DC) 
