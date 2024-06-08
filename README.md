@@ -1,6 +1,6 @@
 
-![Capa git](https://github.com/dvpdsc/dvpdsc/assets/148638306/85c32a25-4a9d-4299-a443-681c5339fd61)
 
+![Tech Enthusiast00](https://github.com/dvpdsc/dvpdsc/assets/148638306/1c2ea75d-ab57-4e8d-9490-88633c94ab46)
 
 ## [Encontre-me](title_color=30A3DC) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/davi-chaves-319a1826b/)  [![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/dvpdsc) [![Gmail](https://img.shields.io/badge/Gmail-30A3DC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:dvpdsc@gmail.com) 
